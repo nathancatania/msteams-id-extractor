@@ -1,0 +1,7 @@
+# Sample channels for testing
+https://teams.microsoft.com/l/channel/19%3Asbe3kFzquLgN3NmBVwJf-sf8xjHJIjcPUn1gW6UjLKc1%40thread.tacv2/General?groupId=b8fe8e94-51bc-4ba8-869a-cac1fba25370&tenantId=9685e87d-4af2-4bd9-9ba5-0770d5ee6fe5
+https://teams.microsoft.com/l/channel/19%3A6d3c7107e87d438ba488b291967cde27%40thread.tacv2/Access%20Approvals?groupId=b8fe8e94-51bc-4ba8-869a-cac1fba25370&tenantId=9685e87d-4af2-4bd9-9ba5-0770d5ee6fe5
+https://teams.microsoft.com/l/channel/19%3Af7686e91aaf04a708cbb5fcd426667b6%40thread.tacv2/Social?groupId=b8fe8e94-51bc-4ba8-869a-cac1fba25370&tenantId=9685e87d-4af2-4bd9-9ba5-0770d5ee6fe5
+https://teams.microsoft.com/l/channel/19%3AQP8HwjdClK-pQgDB3nlB16FJJmn2M2-Y36tOWAOREXc1%40thread.tacv2/General?groupId=7c77e355-c78c-4362-b195-d2428e285106&tenantId=9685e87d-4af2-4bd9-9ba5-0770d5ee6fe5
+https://teams.microsoft.com/l/channel/19%3ASc-geobTNwKjd8aE6gw73S1Ij1QpLXIL6iolH7MjhHI1%40thread.tacv2/General?groupId=c6eff061-b1c0-4cc4-90d9-b4b029c7af8f&tenantId=9685e87d-4af2-4bd9-9ba5-0770d5ee6fe5
+https://teams.microsoft.com/l/channel/19%3A3f341a2ee6d44358a3c0bb7e824a993a%40thread.tacv2/Pets?groupId=c6eff061-b1c0-4cc4-90d9-b4b029c7af8f&tenantId=9685e87d-4af2-4bd9-9ba5-0770d5ee6fe5
