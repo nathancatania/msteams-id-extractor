@@ -101,8 +101,8 @@ def main(file, output):
         print(json.dumps(data, indent=4))
     else:  # default to "pair"
         # Output a comma-separated list of group ID and channel ID pairs
-        pairs = [f"{group};{channel}" for group, channel in results if group and channel]
-        print(",".join(pairs))
+        pairs = [f"{group},{channel}" for group, channel in results if group and channel]
+        print(";".join(pairs))
 
 if __name__ == "__main__":
     # Set up command-line argument parsing
