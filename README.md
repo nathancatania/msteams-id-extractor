@@ -39,9 +39,9 @@ You can specify alternative output formats using the `--output` flag:
 * `groups`
 
 ### Glean (default)
-The default format is to output to a `<group_id>;<channel_id>` comma-separated pair used for Glean, e.g.
+The default format is to output to a `<group_id>,<channel_id>` semi-comma-separated pair used for Glean, e.g.
 ```
-<group_id1>;<channel_id1>,<group_id1>;<channel_id2>,<group_id2>;<channel_id1>, ...
+<group_id1>,<channel_id1>;<group_id1>,<channel_id2>;<group_id2>,<channel_id1>; ...
 ```
 
 ### JSON
